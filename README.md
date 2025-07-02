@@ -22,7 +22,7 @@ I’m especially excited about:
 Here’s a quick rundown of what I’ve worked with so far:
 
 **Languages:**  
-`Python`, `C++`, `C`, `Java`, `JavaScript`, `SQL`, `Bash`, `Rust (learning)`
+`Python`, `C++`, `C`, `Java`, `JavaScript`, `SQL`, `Bash`, `R (learning)`
 
 **ML & Data Tools:**  
 `PyTorch`, `TensorFlow`, `Keras`, `NumPy`, `Pandas`, `scikit-learn`, `Matplotlib`, `OpenCV`
