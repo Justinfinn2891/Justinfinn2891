@@ -24,14 +24,16 @@ Here’s a quick rundown of what I’ve worked with so far:
 **Languages:**  
 `Python`, `C++`, `C`, `Java`, `JavaScript`, `SQL`, `Bash`, `R (learning)`
 
+- I have a high emphasis on Python and R for my desire of machine learning (especially neural networks) and C++ due to the importance regarding robotics, and specifically my Arduino UNO.)
+
 **ML & Data Tools:**  
-`PyTorch`, `TensorFlow`, `Keras`, `NumPy`, `Pandas`, `scikit-learn`, `Matplotlib`, `OpenCV`
+`PyTorch`, `TensorFlow`, `Keras`, `NumPy`, `Pandas`, `scikit-learn`, `Matplotlib`, `OpenCV`, `Numpy`
 
 **Robotics & Hardware:**  
 `ROS`, `Arduino`, `Raspberry Pi`, `Gazebo`, `YOLO`, `SLAM`
 
 **Web & Dev Tools:**  
-`Git`, `Linux`, `Docker`, `PostgreSQL`, `Node.js`, `React`, `Firebase`
+`Git`, `Linux`, `Docker`, `PostgreSQL`, `Node.js`, `React`, `Firebase`, `MySQL`
 
 ---
 
